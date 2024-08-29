@@ -1,0 +1,16 @@
+{
+  "contactDetails": [
+    {
+      "phone": "4444444444",
+      "mail": "aaaa@aaaa.com",
+      "socialMedia": 
+        [
+            {
+        "linkedinLogo": "",
+        "linkedinURL": ""},
+
+    ]
+      }
+    
+  ]
+}

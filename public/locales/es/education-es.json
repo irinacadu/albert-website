@@ -1,0 +1,20 @@
+{
+    "educationTitle":"FORMACIÓN",
+    "educationDetails":[
+        {
+            "place":"Curso de técnico en backline de Call & Play",
+            "date":"23",
+            "description":"cluyendo percusiones, contrabajos, guitarras, bajos, parches de batería y sus diferentes tipos. Montaje y mantenimiento de todo tipo de instrumentos como marimbas, vibráfonos, saxofón, hammond, etc. También montaje y mantenimiento de todo tipo de equipos para DJ."
+        },
+        {
+            "place":"Grado superior de técnico de sonido (falta instituto)",
+            "date":"23",
+            "description":"mezcla (estudio, radio, front of house y monitoraje  de escenario), montaje de equipos de sonido, microfonía, compresión, ecualización, etc."
+        },
+        {
+            "place":"Curso online de mezcla avanzada en estudio. (falta entidad formativa)",
+            "date":"20",
+            "description":"de mezcla avanzada como por ejemplo  la ecualización dinámica, la compresión multibanda, compresión Sidechain, compresión paralela, etc."
+        }
+    ]
+}
